@@ -1,0 +1,16 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+  opacity:0.8;
+  border-bottom: 1px solid #fff;
+}
+.jumbotron{
+  padding-top: 6rem;
+}
+.button-toggler:focus {
+  outline: none;
+}
+.button-toggler {
+  border:none;
+}
